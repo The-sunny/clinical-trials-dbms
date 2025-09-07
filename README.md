@@ -40,24 +40,24 @@ The database was modeled using Crow’s Foot notation with clear primary keys an
 
 ## Database Entities
 
-Clinical Trial – Core entity holding trial details (trial ID, title, dates, etc.).
+- Clinical Trial – Core entity holding trial details (trial ID, title, dates, etc.).
 
-Principal Investigator – Investigator responsible for trial oversight.
+- Principal Investigator – Investigator responsible for trial oversight.
 
-Participant – Details of individuals participating in the trial.
+- Participant – Details of individuals participating in the trial.
 
-Informed Consent Form – Consent records signed by participants.
+- Informed Consent Form – Consent records signed by participants.
 
-Trial Investigator – Relationship entity linking investigators to trials.
+- Trial Investigator – Relationship entity linking investigators to trials.
 
-Visit – Participant visits for screenings, treatments, or follow-ups.
+- Visit – Participant visits for screenings, treatments, or follow-ups.
 
-Assessment – Clinical data collected during participant visits.
+- Assessment – Clinical data collected during participant visits.
 
-Medication & Dosage – Information on trial medications, doses, and protocols.
+- Medication & Dosage – Information on trial medications, doses, and protocols.
 
-Medical History – Participant’s health background and eligibility assessment.
+- Medical History – Participant’s health background and eligibility assessment.
 
-Safety Data – Records of adverse events and safety monitoring.
+- Safety Data – Records of adverse events and safety monitoring.
 
-Clinical Site – Information on physical locations where trials take place.
+- Clinical Site – Information on physical locations where trials take place.
