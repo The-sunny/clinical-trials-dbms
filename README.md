@@ -7,8 +7,8 @@ Entity–Relationship Diagram
 
 The database was modeled using Crow’s Foot notation with clear primary keys and relationships.
 
+<img width="1321" height="745" alt="image" src="https://github.com/user-attachments/assets/2629722b-e180-4444-93e1-0a4123ca5e45" />
 
-(Replace with the actual path to your ER diagram image.)
 
 Key Features
 
