@@ -61,3 +61,7 @@ The database was modeled using Crow’s Foot notation with clear primary keys an
 - Safety Data – Records of adverse events and safety monitoring.
 
 - Clinical Site – Information on physical locations where trials take place.
+
+[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://youtu.be/XZHhwz1mxf8?si=eVze8mYWbpgGQJQ-)
+
+
