@@ -1,16 +1,16 @@
 # Clinical Trials Database
-##Overview
+## Overview
 
 The Clinical Trials Database is designed to support the management and documentation of clinical trials. It serves as a centralized system to store and organize information about trials, participants, investigators, medical history, medications, safety data, and more. The goal is to streamline trial operations, ensure compliance with ethical and regulatory standards, and provide reliable data for analysis and reporting.
 
-##Entity–Relationship Diagram
+Entity–Relationship Diagram
 
 The database was modeled using Crow’s Foot notation with clear primary keys and relationships.
 
 <img width="1321" height="745" alt="image" src="https://github.com/user-attachments/assets/2629722b-e180-4444-93e1-0a4123ca5e45" />
 
 
-##Key Features
+## Key Features
 
 - Participant Enrollment Tracking – Monitor how many participants are enrolled in each trial.
 
@@ -28,7 +28,7 @@ The database was modeled using Crow’s Foot notation with clear primary keys an
 
 - Efficient Reporting – Generate required reports for regulatory authorities, sponsors, and ethics committees.
 
-##Business Rules
+## Business Rules
 
 - One Principal Investigator is assigned to only one clinical trial.
 
@@ -38,7 +38,7 @@ The database was modeled using Crow’s Foot notation with clear primary keys an
 
 - A Participant can visit clinics multiple times, and each visit will include an assessment.
 
-##Database Entities
+## Database Entities
 
 Clinical Trial – Core entity holding trial details (trial ID, title, dates, etc.).
 
