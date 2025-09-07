@@ -1,4 +1,4 @@
-#📘 Clinical Trials Database
+# Clinical Trials Database
 Overview
 
 The Clinical Trials Database is designed to support the management and documentation of clinical trials. It serves as a centralized system to store and organize information about trials, participants, investigators, medical history, medications, safety data, and more. The goal is to streamline trial operations, ensure compliance with ethical and regulatory standards, and provide reliable data for analysis and reporting.
