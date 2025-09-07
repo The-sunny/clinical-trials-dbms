@@ -62,6 +62,7 @@ The database was modeled using Crow’s Foot notation with clear primary keys an
 
 - Clinical Site – Information on physical locations where trials take place.
 
-[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://youtu.be/XZHhwz1mxf8?si=eVze8mYWbpgGQJQ-)
+## Project Presentation video
+[![Watch the video](https://img.youtube.com/vi/<XZHhwz1mxf8?si=eVze8mYWbpgGQJQ->/0.jpg)](https://youtu.be/XZHhwz1mxf8?si=eVze8mYWbpgGQJQ-)
 
 
